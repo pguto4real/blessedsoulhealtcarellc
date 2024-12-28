@@ -70,7 +70,7 @@
      left: -35px;
      width: 150px;
      height: 150px;
-     top: -35px;
+     top: -30px;
      border-radius: 100%;
      z-index: 1;
 }
@@ -152,6 +152,17 @@
 }
  .header__menu ul li ul.submenu li:hover > a {
      color: #223645;
+}
+.sidebar__menu--li{
+    position: relative;
+    color: white;
+    border-top: 1px solid #2a3a57;
+    border-bottom: 1px solid #2a3a57;
+    padding: 6px 0;
+    margin-bottom: 10px;
+}
+.sidebar__menu--li a {
+    color: white;
 }
  .header-social-icons {
      padding-top: 48px;
