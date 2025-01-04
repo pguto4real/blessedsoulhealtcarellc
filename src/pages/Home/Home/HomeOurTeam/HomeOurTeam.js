@@ -30,12 +30,12 @@ const HomeOurTeam = () => {
                </div>
                <div className="row">
 
-                  <HomeSingleTeam image="1" title="Rosalina D. Williamson" subtitle="Founder" />
-                  <HomeSingleTeam image="2" title="Diconda PIran Will" subtitle="dentist" />
-                  <HomeSingleTeam image="3" title="Hulk M. Kenbon" subtitle="neurologist" />
-                  <HomeSingleTeam image="4" title="Haliam Z. Dicolaz" subtitle="Consultant" />
-                  <HomeSingleTeam image="5" title="Nicolas D. Case" subtitle="dentist" />
-                  <HomeSingleTeam image="6" title="Phumdon H. Norman" subtitle="neurologist" />
+                  <HomeSingleTeam image="1" title="Name" subtitle="Title" />
+                  <HomeSingleTeam image="2" title="Name" subtitle="Title"/>
+                  <HomeSingleTeam image="3" title="Name" subtitle="Title"/>
+                  <HomeSingleTeam image="4" title="Name" subtitle="Title" />
+                  <HomeSingleTeam image="5" title="Name" subtitle="Title" />
+                  <HomeSingleTeam image="6" title="Name" subtitle="Title"/>
 
                </div>
             </div>

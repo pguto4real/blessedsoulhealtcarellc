@@ -16,21 +16,21 @@ const HomeFooter = () => {
                                         </div>
                                         <div className="emmergency-call-text f-left">
                                             <h6>Emergency number</h6>
-                                            <span>202-555-0104</span>
+                                            <span>+1 214 960 7853</span>
                                         </div>
                                     </div>
                                     <div className="footer-logo mb-35">
-                                        <Link to="/"><img src="img/logo/footer-logo.png" alt=""/></Link>
+                                        <Link to="/"><img src="img/logo/logowhitetext.png" alt=""/></Link>
                                     </div>
                                     <div className="footer-contact-content mb-25">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                                            et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
+                                        {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+                                            et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p> */}
                                     </div>
                                     <div className="footer-emailing">
                                         <ul>
-                                            <li><i className="far fa-envelope"></i>info@examplemedical.com</li>
-                                            <li><i className="far fa-clone"></i>examplemedical.com</li>
-                                            <li><i className="far fa-flag"></i>227 Marion Street, Columbia</li>
+                                            <li><i className="far fa-envelope"></i>info@blessedsoulhealthcarellc.com</li>
+                                            {/* <li><i className="far fa-clone"></i>examplemedical.com</li> */}
+                                            <li><i className="far fa-flag"></i>6906 Spanky Branch Dr, Dallas, Tx 75248</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -77,7 +77,7 @@ const HomeFooter = () => {
                         <div className="row">
                             <div className="col-xl-12">
                                 <div className="footer-copyright text-center">
-                                    <p className="white-color">Copyright by@ BasicTheme - 2022</p>
+                                    <p className="white-color">Copyright by@ BlessesSoulHealthCareLlc - 2025</p>
                                 </div>
                             </div>
                         </div>

@@ -16,7 +16,7 @@ const HomeHeader = () => {
                   <div className="row d-flex align-items-center">
                      <div className="col-xl-6 offset-xl-1 col-lg-8 offset-lg-1 col-md-9 pt-2 pb-2 offset-md-1">
                         <div className="header-info">
-                           <span><i className="fas fa-phone"></i> +1 800 833 9780</span>
+                           <span><i className="fas fa-phone"></i> +1 214 960 7853</span>
                            <span><i className="fas fa-envelope"></i> info@blessedsoulhealthcarellc.com</span>
                         </div>
                      </div>
@@ -36,7 +36,7 @@ const HomeHeader = () => {
                      <div className="col-xl-9 col-lg-9 col-md-6 col-6">
                         <div className="header-right f-right">
                            
-                           <div className="header-social-icons f-right d-none d-xl-block">
+                           {/* <div className="header-social-icons f-right d-none d-xl-block">
                               <ul>
                                  <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
                                  <li><a href="#"><i className="fab fa-behance"></i></a></li>
@@ -44,7 +44,7 @@ const HomeHeader = () => {
                                  <li><a href="#"><i className="fab fa-linkedin"></i></a></li>
                                  <li><a href="#"><i className="fab fa-pinterest"></i></a></li>
                               </ul>
-                           </div>
+                           </div> */}
                         </div>
                         <div className="header__menu f-right">
                            <nav id="mobile-menu">
@@ -52,21 +52,24 @@ const HomeHeader = () => {
                                  <li><Link to="/">Home </Link>
                                     
                                  </li>
-                                 <li><Link to="/services">Department </Link>
+                                 <li><Link to="/services">About Us </Link>
                                     
                                  </li>
-                                 <li><Link to="/doctors">Doctors </Link>
+                                 <li><Link to="/doctors">Services </Link>
                                     
                                  </li>
-                                 <li><Link to="/shop">Shop</Link>
+                                 <li><Link to="/doctors">Teams </Link>
+                                    
+                                 </li>
+                                 {/* <li><Link to="/shop">Shop</Link>
                                     
                                  </li>
                                  <li><Link to="/blogs">News </Link>
                                     
                                  </li>
-                                 <li><a href="#">Pages +</a>
+                                 <li><a href="#">Pages +</a> */}
                                     
-                                 </li>
+                                 {/* </li> */}
                               </ul>
                            </nav>
                         </div>

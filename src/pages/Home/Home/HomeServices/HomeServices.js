@@ -14,7 +14,7 @@ const HomeServices = () => {
                         </div>
                         <div className="section-text pos-rel home_ser_title">
                            <h5>Departments</h5>
-                           <h1>Managed Your Heathcare Services</h1>
+                           <h1>Services Provided</h1>
                         </div>
                         <div className="section-line pos-rel">
                            <img src="img/shape/section-title-line.png" alt=""/>
@@ -24,12 +24,12 @@ const HomeServices = () => {
                </div>
                <div className="row">
 
-                  <HomeSIngleService icon="1" title="Body Surgery" />
-                  <HomeSIngleService icon="2" title="Dental Care" />
-                  <HomeSIngleService icon="3" title="service-content" />
-                  <HomeSIngleService icon="4" title="Blood Cancer" />
-                  <HomeSIngleService icon="5" title="Neurology Sargery" />
-                  <HomeSIngleService icon="6" title="Allergic Issue" />
+                  <HomeSIngleService icon="1" title="Personalized Care" sub="Assistance with daily activities, medication managements and customized care plans" />
+                  <HomeSIngleService icon="2" title="Comfortable living spaces" sub="Thoughtfully designed private or shared accommodations with modern amenities to ensure safety and comfort."/>
+                  <HomeSIngleService icon="3" title="Engaging Activities" sub="Social, recreational, and wellness programs to encourage physical activity, mental stimulation, and emotional well being." />
+                  <HomeSIngleService icon="4" title="24/7 Support" sub="Round-the-clock professional staff committed to ensuring residents feel safe, secure and, cared for at all times."/>
+                  {/* <HomeSIngleService icon="5" title="Neurology Sargery" />
+                  <HomeSIngleService icon="6" title="Allergic Issue" /> */}
 
                </div>
             </div>

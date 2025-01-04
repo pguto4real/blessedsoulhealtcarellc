@@ -15,9 +15,9 @@ const HomeCta = () => {
 										<h1 className="white-color">Trust Us To Be There To Help All & Make Things Well Again.</h1>
 									</div>
 								</div>
-								<div className="section-button section-button-left">
+								{/* <div className="section-button section-button-left">
 									<Link to="/appoinment" className="primary_btn btn-icon btn-icon-green ml-0"><span>+</span>get a consultant</Link>
-								</div>
+								</div> */}
 							</div>
 						</div>
 					</div>

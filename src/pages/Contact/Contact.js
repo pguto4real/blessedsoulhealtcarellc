@@ -12,7 +12,7 @@ const Contact = () => {
             <HomeHeader/>
             <CommonPageHeader title="Contact Us" subtitle="Contact" />
             <ContactArea/>
-            <ContactFormArea/>
+            {/* <ContactFormArea/> */}
             <ContactMap/>
             <Footer/>
         </>
