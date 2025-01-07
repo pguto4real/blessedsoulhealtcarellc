@@ -5,7 +5,7 @@ import HomeSingleTeam from '../../../../components/HomeSingleTeam/HomeSingleTeam
 const HomeOurTeam = () => {
    return (
       <>
-         <section className="team-area pt-115 pb-55">
+         <section className="team-area pt-115 pb-55" id='teams'>
             <div className="container">
                <div className="row">
                   <div className="col-xl-6 col-lg-7 col-md-10">

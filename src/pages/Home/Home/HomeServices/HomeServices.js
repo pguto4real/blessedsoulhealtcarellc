@@ -4,7 +4,7 @@ import HomeSIngleService from '../../../../components/HomeSIngleService/HomeSIng
 const HomeServices = () => {
    return (
       <>
-         <section className="servcies-area gray-bg pt-115 pb-90">
+         <section className="servcies-area gray-bg pt-115 pb-90" id='services'>
             <div className="container">
                <div className="row">
                   <div className="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">

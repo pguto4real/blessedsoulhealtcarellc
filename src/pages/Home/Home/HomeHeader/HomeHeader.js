@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { HashLink as Link } from 'react-router-hash-link';
 import Sidebar from '../../../../components/Shared/Sidebar/Sidebar';
 import useGlobalContext from '../../../../hooks/useGlobalContext';
 
@@ -52,13 +52,13 @@ const HomeHeader = () => {
                                  <li><Link to="/">Home </Link>
                                     
                                  </li>
-                                 <li><Link to="/services">About Us </Link>
+                                 <li><Link to="/#about">About Us </Link>
                                     
                                  </li>
-                                 <li><Link to="/doctors">Services </Link>
+                                 <li><Link to="/#services">Services </Link>
                                     
                                  </li>
-                                 <li><Link to="/doctors">Teams </Link>
+                                 <li><Link to="/#teams">Teams </Link>
                                     
                                  </li>
                                  {/* <li><Link to="/shop">Shop</Link>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const HomeAboutArea = () => {
    return (
-      <>
+      
          <section className="about-area pt-120 pb-90" id="about">
         <div className="container">
           <div className="row">
@@ -98,7 +98,7 @@ const HomeAboutArea = () => {
           </div>
         </div>
       </section>
-      </>
+      
    );
 };
 
