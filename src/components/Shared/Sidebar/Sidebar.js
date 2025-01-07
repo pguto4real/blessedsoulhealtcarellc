@@ -2,7 +2,7 @@ import React from 'react';
 import { Offcanvas } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import Collapsible from 'react-collapsible';
-import { Link } from 'react-router-dom';
+import { HashLink as Link } from 'react-router-hash-link';
 
 const Sidebar = ({ show, handleClose }) => {
    const Home = <NavLink to="/home">Home</NavLink>
@@ -24,21 +24,16 @@ const Sidebar = ({ show, handleClose }) => {
                                  <li className='sidebar__menu--li'><Link to="/">Home </Link>
                                     
                                  </li>
-                                 <li className='sidebar__menu--li'><Link to="/services">Department </Link>
+                                 <li className='sidebar__menu--li'><Link to="/#about">About Us </Link>
                                     
                                  </li>
-                                 <li className='sidebar__menu--li'><Link to="/doctors">Doctors </Link>
+                                 <li className='sidebar__menu--li'><Link to="/#services">Services </Link>
                                     
                                  </li>
-                                 <li className='sidebar__menu--li'><Link to="/shop">Shop</Link>
+                                 <li className='sidebar__menu--li'><Link to="/#teams">Teams </Link>
                                     
                                  </li>
-                                 <li className='sidebar__menu--li'><Link to="/blogs">News </Link>
-                                    
-                                 </li>
-                                 <li className='sidebar__menu--li'><a href="#">Pages +</a>
-                                    
-                                 </li>
+                                 
                               </ul>
 
                </Offcanvas.Body>
