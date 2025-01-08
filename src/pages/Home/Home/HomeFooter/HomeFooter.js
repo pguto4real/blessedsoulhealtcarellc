@@ -20,7 +20,7 @@ const HomeFooter = () => {
                                         </div>
                                     </div>
                                     <div className="footer-logo mb-35">
-                                        <Link to="/"><img src="img/logo/logowhitetext.png" alt=""/></Link>
+                                        <Link to="/"><img src="img/logo/slogan.jpg" alt=""/></Link>
                                     </div>
                                     <div className="footer-contact-content mb-25">
                                         {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
@@ -42,8 +42,8 @@ const HomeFooter = () => {
                                     </div>
                                     <div className="footer-menu">
                                         <ul>
-                                            <li><Link to="/servicesDetails">Surgery and Radiology</Link></li>
-                                            <li><Link to="/servicesDetails">Family Medicine</Link></li>
+                                            <li><Link to="/servicesDetails">Personalized Care</Link></li>
+                                            <li><Link to="/servicesDetails">Comfortable living spaces</Link></li>
                                             <li><Link to="/servicesDetails">Women’s Health</Link></li>
                                             <li><Link to="/servicesDetails">Optician</Link></li>
                                             <li><Link to="/servicesDetails">Pediatrics</Link></li>

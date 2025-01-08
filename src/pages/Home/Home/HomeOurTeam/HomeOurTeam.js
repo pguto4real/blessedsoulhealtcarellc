@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import HomeSingleTeam from '../../../../components/HomeSingleTeam/HomeSingleTeam';
+import SingleTeam from '../../../../components/SingleTeam/SingleTeam';
 
 const HomeOurTeam = () => {
    return (
@@ -29,13 +30,16 @@ const HomeOurTeam = () => {
                   </div>
                </div>
                <div className="row">
-
-                  <HomeSingleTeam image="1" title="Name" subtitle="Title" />
-                  <HomeSingleTeam image="2" title="Name" subtitle="Title"/>
-                  <HomeSingleTeam image="3" title="Name" subtitle="Title"/>
-                  <HomeSingleTeam image="4" title="Name" subtitle="Title" />
-                  <HomeSingleTeam image="5" title="Name" subtitle="Title" />
-                  <HomeSingleTeam image="6" title="Name" subtitle="Title"/>
+               <SingleTeam number={1} image="img/team/yinka.jpg"  name="Esther" title="Founder" />
+                  {/* <SingleTeam number={2} image="img/team/yinka3.jpg" name="Hekim D. Rswana" title="dentist" /> */}
+                  {/* <SingleTeam number={3} image="img/team/yinka.jpg" name="Tarana Halim" title="neurologist" /> */}
+                  {/* <SingleTeam number={4} image="img/team/member2.png" name="Kelian M. Habblu" title="operator" /> */}
+                  {/* <HomeSingleTeam image="img/team/yinka.jpg" height="270px"  title="Name" subtitle="Title" />
+                  <HomeSingleTeam image="img/team/member2.png" title="Name" subtitle="Title"/>
+                  <HomeSingleTeam image="img/team/member1.png" title="Name" subtitle="Title"/>
+                  <HomeSingleTeam image="img/team/member1.png" title="Name" subtitle="Title" />
+                  <HomeSingleTeam image="img/team/member1.png" title="Name" subtitle="Title" />
+                  <HomeSingleTeam image="img/team/member1.png" title="Name" subtitle="Title"/> */}
 
                </div>
             </div>
