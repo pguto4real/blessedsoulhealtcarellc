@@ -30,10 +30,10 @@ const HomeOurTeam = () => {
                   </div>
                </div>
                <div className="row">
-               <SingleTeam number={1} image="img/team/yinka.jpg"  name="Esther" title="Founder" />
-                  {/* <SingleTeam number={2} image="img/team/yinka3.jpg" name="Hekim D. Rswana" title="dentist" /> */}
-                  {/* <SingleTeam number={3} image="img/team/yinka.jpg" name="Tarana Halim" title="neurologist" /> */}
-                  {/* <SingleTeam number={4} image="img/team/member2.png" name="Kelian M. Habblu" title="operator" /> */}
+               <SingleTeam number={1} image="img/team/yinka.jpg"  name="Esther Awosogba(MSN,BSN,RN)" title="CEO" objectFit="contain" />
+                  <SingleTeam number={2} image="img/team/member2.png" name="Name" title="Position"  />
+                  <SingleTeam number={3} image="img/team/member2.png" name="Name" title="Position" />
+                  <SingleTeam number={4} image="img/team/member2.png" name="Name" title="Position" />
                   {/* <HomeSingleTeam image="img/team/yinka.jpg" height="270px"  title="Name" subtitle="Title" />
                   <HomeSingleTeam image="img/team/member2.png" title="Name" subtitle="Title"/>
                   <HomeSingleTeam image="img/team/member1.png" title="Name" subtitle="Title"/>

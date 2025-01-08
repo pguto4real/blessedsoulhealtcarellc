@@ -1,7 +1,14 @@
 
-
+@media (min-width: 1500px) {
+    .team__name{
+        font-size: 16px !important;
+            }
+}
 /* Normal desktop :1200px. */
  @media (min-width: 1200px) and (max-width: 1500px) {
+    .team__name{
+font-size: 16px !important;
+    }
      .slider-height {
          min-height: 700px;
     }
@@ -57,6 +64,9 @@
 }
 /* Normal desktop :992px. */
  @media (min-width: 992px) and (max-width: 1200px) {
+    .team__name{
+        font-size: 18px !important;
+            }
      .slider-height {
          min-height: 700px;
     }
@@ -362,6 +372,9 @@
 }
 /* Tablet desktop :768px. */
  @media (min-width: 768px) and (max-width: 991px) {
+    .team__name{
+        font-size: 20px !important;
+            }
      .hero-text.hero-text-2 {
          padding-top: 150px;
     }
