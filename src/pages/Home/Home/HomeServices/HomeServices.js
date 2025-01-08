@@ -24,10 +24,10 @@ const HomeServices = () => {
                </div>
                <div className="row">
 
-                  <HomeSIngleService icon="1" title="Personalized Care" sub="Assistance with daily activities, medication managements and customized care plans" />
-                  <HomeSIngleService icon="2" title="Comfortable living spaces" sub="Thoughtfully designed private or shared accommodations with modern amenities to ensure safety and comfort."/>
-                  <HomeSIngleService icon="3" title="Engaging Activities" sub="Social, recreational, and wellness programs to encourage physical activity, mental stimulation, and emotional well being." />
-                  <HomeSIngleService icon="4" title="24/7 Support" sub="Round-the-clock professional staff committed to ensuring residents feel safe, secure and, cared for at all times."/>
+                  <HomeSIngleService icon="img/services/personalized.png" title="Personalized Care" sub="Assistance with daily activities, medication managements and customized care plans" />
+                  <HomeSIngleService icon="img/services/lounge.png" title="Comfortable living spaces" sub="Thoughtfully designed private or shared accommodations with modern amenities to ensure safety and comfort."/>
+                  <HomeSIngleService icon="img/services/engagement.png" title="Engaging Activities" sub="Social, recreational, and wellness programs to encourage physical activity, mental stimulation, and emotional well being." />
+                  <HomeSIngleService icon="img/services/customer-care.png" title="24/7 Support" sub="Round-the-clock professional staff committed to ensuring residents feel safe, secure and, cared for at all times."/>
                   {/* <HomeSIngleService icon="5" title="Neurology Sargery" />
                   <HomeSIngleService icon="6" title="Allergic Issue" /> */}
 
