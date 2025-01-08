@@ -42,12 +42,11 @@ const HomeFooter = () => {
                                     </div>
                                     <div className="footer-menu">
                                         <ul>
-                                            <li><Link to="/servicesDetails">Personalized Care</Link></li>
-                                            <li><Link to="/servicesDetails">Comfortable living spaces</Link></li>
-                                            <li><Link to="/servicesDetails">Women’s Health</Link></li>
-                                            <li><Link to="/servicesDetails">Optician</Link></li>
-                                            <li><Link to="/servicesDetails">Pediatrics</Link></li>
-                                            <li><Link to="/servicesDetails">Dermatology</Link></li>
+                                            <li>Personalized Care</li>
+                                            <li>Comfortable living spaces</li>
+                                            <li>Engaging Activities</li>
+                                            <li>24/7 Support</li>
+                                            
                                         </ul>
                                     </div>
                                 </div>
