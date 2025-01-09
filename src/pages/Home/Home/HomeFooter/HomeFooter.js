@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { HashLink as Link } from 'react-router-hash-link';
 
 const HomeFooter = () => {
     return (
@@ -58,12 +58,12 @@ const HomeFooter = () => {
                                     </div>
                                     <div className="footer-menu">
                                         <ul>
-                                            <li><Link to="/servicesDetails">Departments</Link></li>
-                                            <li><Link to="/doctors">Our Doctors</Link></li>
-                                            <li><Link to="/blogs">News</Link></li>
-                                            <li><Link to="/shop">Shop</Link></li>
+                                            <li><Link to="/#about">About Us</Link></li>
+                                            <li><Link to="/#services">Services</Link></li>
+                                            <li><Link to="/#teams">Teams</Link></li>
+                                            
                                             <li><Link to="/contact">Contact Us</Link></li>
-                                            <li><Link to="/contact">Book an Appointment</Link></li>
+                                          
                                         </ul>
                                     </div>
                                 </div>
