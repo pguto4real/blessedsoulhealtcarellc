@@ -25,7 +25,7 @@ const HomeOurTeam = () => {
                   </div>
                   <div className="col-xl-6 col-lg-5">
                      <div className="section-button text-end d-none d-lg-block pt-80 team_btn">
-                        <Link to="/contact" className="primary_btn btn-icon ml-0"><span>+</span>Make Appointment</Link>
+                        <Link to="/contact" className="primary_btn btn-icon ml-0"><span>+</span>Contact Us</Link>
                      </div>
                   </div>
                </div>
