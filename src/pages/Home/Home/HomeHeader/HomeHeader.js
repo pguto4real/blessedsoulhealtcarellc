@@ -58,7 +58,7 @@ const HomeHeader = () => {
                                  <li><Link to="/#services">Services </Link>
                                     
                                  </li>
-                                 <li><Link to="/#teams">Teams </Link>
+                                 <li><Link to="/#teams">Our Team </Link>
                                     
                                  </li>
                                  {/* <li><Link to="/shop">Shop</Link>

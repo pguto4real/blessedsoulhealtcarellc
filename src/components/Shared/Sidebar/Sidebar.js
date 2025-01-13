@@ -30,7 +30,7 @@ const Sidebar = ({ show, handleClose }) => {
                                  <li className='sidebar__menu--li'><Link to="/#services">Services </Link>
                                     
                                  </li>
-                                 <li className='sidebar__menu--li'><Link to="/#teams">Teams </Link>
+                                 <li className='sidebar__menu--li'><Link to="/#teams">Our Team </Link>
                                     
                                  </li>
                                  
