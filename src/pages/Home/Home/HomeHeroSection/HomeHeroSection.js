@@ -62,7 +62,7 @@ const HomeHeroSection = () => {
             <HomeHeroSingleSlide
               bg_className="2"
               text1="We are here for your care."
-              text2="Where Compassionate Meets Comfort"
+              text2="Where Compassion Meets Comfort"
               text3="Discover compassionate care and a vibrant community where every moment matters, your loved ones deserve the best care"
             />
           </Slider>

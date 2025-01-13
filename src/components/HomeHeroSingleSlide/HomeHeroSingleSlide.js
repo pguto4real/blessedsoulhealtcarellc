@@ -16,15 +16,13 @@ const HomeHeroSingleSlide = ({ bg_className,text1,text2,text3}) => {
                            <h5>{text1}</h5>
                            <h1>{text2}</h1>
                            <p>{text3}</p>
-                           {/* <h5>We are here for your care.</h5>
-                           <h1>Best Care & Better Doctor.</h1>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
+                           
                         </div>
                         <div className="hero-slider-btn">
-                           <Link to="/contact" className="primary_btn btn-icon ml-0"><span>+</span>Make Appointment</Link>
+                           <Link to="/contact" className="primary_btn btn-icon ml-0"><span>+</span>Contact Us</Link>
 
-                           <button onClick={() => setIsOpen(true)}
-                              className="play-btn popup-video"><i className="fas fa-play"></i></button>
+                           {/* <button onClick={() => setIsOpen(true)}
+                              className="play-btn popup-video"><i className="fas fa-play"></i></button> */}
 
                         </div>
                      </div>
