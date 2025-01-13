@@ -19,7 +19,11 @@ const HomeAboutArea = () => {
               </div>
             </div>
           </div>
-          <div className="col-xl-6 col-lg-7">
+          <div
+            className="col-xl-6 col-lg-7 "
+            style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
+
+          >
             <div className="about-right-side pt-10 mb-30">
               <div className="about-title mb-20">
                 <h5>About Us</h5>
