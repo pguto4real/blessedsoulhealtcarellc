@@ -81,11 +81,12 @@ const HomeAboutArea = () => {
                     <img src="img/about/destination-icon-2.png" alt="" />
                   </div>
                   <div className="mv-title fix">
-                    <h3>Our Vission</h3>
+                    <h3>Our Vision</h3>
                     <p>
-                      We aim to create a home away from home, where residents
-                      enjoy a fulfilling lifestyle through compassionate care,
-                      meaningful connections and a focus on holistic wellbeing.
+                      Our goal is to create a welcoming sanctuary that feels
+                      like home, where residents thrive through compassionate
+                      care, meaningful connections, and a commitment to holistic
+                      well-being.
                     </p>
                   </div>
                 </div>
