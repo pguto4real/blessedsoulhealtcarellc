@@ -60,7 +60,7 @@ const HomeFooter = () => {
                                         <ul>
                                             <li><Link to="/#about">About Us</Link></li>
                                             <li><Link to="/#services">Services</Link></li>
-                                            <li><Link to="/#teams">Teams</Link></li>
+                                            <li><Link to="/#teams">Our Team</Link></li>
                                             
                                             <li><Link to="/contact">Contact Us</Link></li>
                                           
