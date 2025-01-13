@@ -33,7 +33,7 @@ const HomeAboutArea = () => {
                   fostering a sense of community and belonging.
                 </p>
               </div>
-              <div className="our-destination">
+              {/* <div className="our-destination">
                 <div className="single-item mb-30">
                   <div className="mv-icon f-left">
                     <img src="img/about/destination-icon-1.png" alt="" />
@@ -90,7 +90,7 @@ const HomeAboutArea = () => {
                     </p>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
