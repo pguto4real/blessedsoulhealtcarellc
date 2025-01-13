@@ -41,9 +41,8 @@ const HomeAboutArea = () => {
                   <div className="mv-title fix">
                     <h3>Core Values</h3>
                     <p>
-                      At Blessed Soul Healthcare, our core value guide every
-                      aspect of the care and support we provide to our residents
-                      and their families.
+                      Our core values guide every aspect of the care and support
+                      we provide to our residents and their families.
                     </p>
                     <ul className="professinals-list">
                       <li>
