@@ -40,9 +40,9 @@ const HomeTwoAbout = () => {
                               <li><i className="fa fa-check"></i><span>FAMILY-CENTERED CARE</span></li>
                            </ul>
                         </div>
-                        <div className="button-area">
+                        {/* <div className="button-area">
                            <Link to="/about" className="primary_btn btn-icon ml-0"><span>+</span>learn more</Link>
-                        </div>
+                        </div> */}
                      </div>
                   </div>
                   <div className="col-xl-6 col-lg-12 col-md-11">
