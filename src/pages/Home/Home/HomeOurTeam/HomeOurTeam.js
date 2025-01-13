@@ -30,8 +30,8 @@ const HomeOurTeam = () => {
                   </div>
                </div>
                <div className="row">
-               <SingleTeam number={1} image="img/team/yinka.jpg"  name="Esther Awosogba(MSN,BSN,RN)" title="CEO" objectFit="contain" />
-                  <SingleTeam number={2} image="img/team/member2.png" name="Name" title="Position"  />
+               <SingleTeam number={1} image="img/team/yinka.jpg"  name="Esther Awosogba(MSN,BSN,RN)" title="Management" objectFit="contain" />
+                  <SingleTeam number={2} image="img/team/jasneet.jpg" name="Jasneet kaur Takhar" title="Management"  objectFit="cover"/>
                   <SingleTeam number={3} image="img/team/member2.png" name="Name" title="Position" />
                   <SingleTeam number={4} image="img/team/member2.png" name="Name" title="Position" />
                   {/* <HomeSingleTeam image="img/team/yinka.jpg" height="270px"  title="Name" subtitle="Title" />
