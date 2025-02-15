@@ -158,7 +158,14 @@ const HomeTwoAbout = () => {
                     sense of community, we aim to empower our residents to live
                     each day with purpose and joy.
                   </p>
-                  <p></p>
+                  <p>
+                    Our unwavering commitment to excellence drives us to
+                    continuously improve and adapt, ensuring that our residents
+                    experience the highest standards of care, comfort, and
+                    happiness. At the heart of everything we do is the belief
+                    that everyone deserves to age gracefully in an environment
+                    filled with love, warmth, and unwavering support.
+                  </p>
                   <br />
                 </div>
                 {/* <div className="about-text-list mb-40">
