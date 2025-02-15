@@ -130,11 +130,17 @@ const HomeTwoAbout = () => {
                 <div className="about-text">
                   <p>
                     {" "}
-                    Our goal is to create a welcoming sanctuary that feels like
-                    home, where residents thrive through compassionate care,
-                    meaningful connections, and a commitment to holistic
-                    well-being.
+                    Our goal is to create a warm, welcoming sanctuary that truly
+                    feels like home—a place where residents can live with
+                    dignity, joy, and a sense of belonging. We are committed to
+                    fostering an environment where individuals thrive through
+                    compassionate care, meaningful connections, and a holistic
+                    approach to well-being that nurtures the mind, body, and
+                    spirit.
                   </p>
+                  <p></p>
+                  <p></p>
+                  <p></p>
                   <br />
                 </div>
                 {/* <div className="about-text-list mb-40">
