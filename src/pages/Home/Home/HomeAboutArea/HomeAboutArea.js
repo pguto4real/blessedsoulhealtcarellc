@@ -21,8 +21,7 @@ const HomeAboutArea = () => {
           </div>
           <div
             className="col-xl-6 col-lg-7 "
-            style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
-
+            // style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
           >
             <div className="about-right-side pt-10 mb-30">
               <div className="about-title mb-20">
@@ -30,12 +29,18 @@ const HomeAboutArea = () => {
               </div>
               <div className="about-text mb-30">
                 <p>
-                  We are dedicated to providing a safe, nurturing, and
-                  supportive environment where residents can thrive with dignity
-                  and independence. Our mission is to offer an exceptional care
-                  tailored to meeting the unique needs of each individual while
-                  fostering a sense of community and belonging.
+                  We are deeply committed to providing a safe, nurturing, and
+                  supportive environment where residents can truly thrive,
+                  embracing life with dignity, independence, and a sense of
+                  fulfillment. Our mission is to offer exceptional,
+                  individualized care that is thoughtfully designed to meet the
+                  unique physical, emotional, cognitive, and social needs of
+                  every resident. We understand that each person has a story, a
+                  history, and personal preferences that shape their
+                  experiences, and we take pride in delivering compassionate,
+                  person-centered care that honors their individuality.
                 </p>
+                
               </div>
               {/* <div className="our-destination">
                 <div className="single-item mb-30">
