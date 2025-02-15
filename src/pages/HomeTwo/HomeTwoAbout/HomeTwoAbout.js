@@ -85,7 +85,12 @@ const HomeTwoAbout = () => {
                     <li>
                       <i className="fa fa-check"></i>
                       <span>COMMUNITY</span>
-                      <p></p>
+                      <p>
+                        A strong sense of belonging and connection is at the
+                        heart of our care. We cultivate a vibrant, engaging
+                        community where residents form meaningful relationships,
+                        share experiences, and feel truly at home.
+                      </p>
                     </li>
                     <li>
                       <i className="fa fa-check"></i>
