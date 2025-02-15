@@ -74,7 +74,13 @@ const HomeTwoAbout = () => {
                     <li>
                       <i className="fa fa-check"></i>
                       <span>EXCELLENCE</span>
-                      <p></p>
+                      <p>
+                        We are committed to delivering the highest quality of
+                        care, continuously improving our services, and exceeding
+                        expectations. Through ongoing education, training, and a
+                        passion for best practices, we ensure that our residents
+                        receive the best possible experience.
+                      </p>
                     </li>
                     <li>
                       <i className="fa fa-check"></i>
