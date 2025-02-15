@@ -11,6 +11,7 @@ import HomePricing from './HomePricing/HomePricing';
 import HomeServices from './HomeServices/HomeServices';
 import HomeTwoAbout from '../../HomeTwo/HomeTwoAbout/HomeTwoAbout';
 import HomeTwoMissionArea from '../../HomeTwo/HomeTwoMissionArea/HomeTwoMissionArea';
+import HomeVision from './HomeAboutArea/HomeVision';
 
 const Home = () => {
     return (
@@ -19,6 +20,7 @@ const Home = () => {
             <HomeHeroSection/>
             <HomeAboutArea/>
             <HomeTwoAbout/>
+            <HomeVision/>
             {/* <HomeTwoMissionArea/> */}
             
             <HomeServices/>
