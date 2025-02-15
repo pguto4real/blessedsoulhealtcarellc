@@ -27,7 +27,7 @@ const HomeAboutArea = () => {
               <div className="about-title mb-20">
                 <h5>About Us</h5>
               </div>
-              <div className="about-text mb-30">
+              <div className="about-text1 mb-30">
                 <p>
                   We are deeply committed to providing a safe, nurturing, and
                   supportive environment where residents can truly thrive,
@@ -48,6 +48,15 @@ const HomeAboutArea = () => {
                   social programs, and holistic wellness initiatives, we
                   encourage meaningful interactions, continuous personal growth,
                   and overall well-being.
+                </p>
+                <p>
+                  We are more than just a care facility—we are a family. Our
+                  dedicated team works tirelessly to create an environment where
+                  residents not only receive the highest quality of care but
+                  also feel empowered, valued, and heard. By fostering a culture
+                  of warmth, kindness, and inclusivity, we ensure that every
+                  resident experiences a life filled with comfort,
+                  companionship, and contentment.
                 </p>
               </div>
               {/* <div className="our-destination">
