@@ -95,12 +95,24 @@ const HomeTwoAbout = () => {
                     <li>
                       <i className="fa fa-check"></i>
                       <span>INNOVATION</span>
-                      <p></p>
+                      <p>
+                        We embrace new ideas, technologies, and care approaches
+                        to enhance the lives of our residents. By staying at the
+                        forefront of advancements in healthcare and wellness, we
+                        provide progressive solutions that improve quality of
+                        life.
+                      </p>
                     </li>
                     <li>
                       <i className="fa fa-check"></i>
                       <span>FAMILY-CENTERED CARE</span>
-                      <p></p>
+                      <p>
+                        We believe that families play an essential role in a
+                        resident’s journey. By fostering open communication,
+                        collaboration, and partnership, we ensure that loved
+                        ones remain actively involved, creating a supportive and
+                        nurturing environment for all.
+                      </p>
                     </li>
                   </ul>
                 </div>
