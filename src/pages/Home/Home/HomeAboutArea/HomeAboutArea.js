@@ -40,7 +40,15 @@ const HomeAboutArea = () => {
                   experiences, and we take pride in delivering compassionate,
                   person-centered care that honors their individuality.
                 </p>
-                
+                <p>
+                  Our community is built on the foundation of trust, respect,
+                  and genuine human connection. We strive to cultivate an
+                  atmosphere where residents feel a strong sense of belonging,
+                  purpose, and joy. Through engaging activities, enriching
+                  social programs, and holistic wellness initiatives, we
+                  encourage meaningful interactions, continuous personal growth,
+                  and overall well-being.
+                </p>
               </div>
               {/* <div className="our-destination">
                 <div className="single-item mb-30">
