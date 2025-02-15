@@ -3,11 +3,11 @@ import React from "react";
 const HomeVision = () => {
   return (
     <>
-      <section className="about-area about-area-mid pb-90">
+      <section className="about-area about-area-mid ">
         <div className="container">
           <div className="row">
             <div className="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
-              <div className="section-title text-center pos-rel mb-75">
+              <div className="section-title text-center pos-rel mb-45">
                 <div className="section-icon">
                   {/* <img
                         className="section-back-icon"
@@ -37,6 +37,7 @@ const HomeVision = () => {
                  
                 }}>
               <ul
+              className="home-vission-ul"
                 style={{
                   display: "flex",
                   flexDirection: "row",
@@ -46,7 +47,7 @@ const HomeVision = () => {
                   width: "80%",
                 }}
               >
-                <li className="col-xl-12 col-lg-6 col-md-6" >
+                <li className="col-xl-12 col-lg-12 col-md-12" >
                   <i className="fa fa-check"></i>
                   <span className="homeVisionSpan">Creating a True Home</span>
                   <p>
@@ -60,7 +61,7 @@ const HomeVision = () => {
                     spirit.
                   </p>
                 </li>
-                <li className="col-xl-12 col-lg-6 col-md-6">
+                <li className="col-xl-12 col-lg-12 col-md-12">
                   <i className="fa fa-check"></i>
                   <span className="homeVisionSpan">Personalized and Compassionate Care</span>
                   <p>
@@ -75,7 +76,7 @@ const HomeVision = () => {
                     promotes fulfillment, independence, and continuous growth.
                   </p>
                 </li>
-                <li className="col-xl-12 col-lg-6 col-md-6">
+                <li className="col-xl-12 col-lg-12 col-md-12">
                   <i className="fa fa-check"></i>
                   <span className="homeVisionSpan">A Vibrant and Supportive Community</span>
                   <p>
@@ -89,7 +90,7 @@ const HomeVision = () => {
                     each day with purpose and joy.
                   </p>
                 </li>
-                <li className="col-xl-12 col-lg-6 col-md-6">
+                <li className="col-xl-12 col-lg-12 col-md-12">
                   <i className="fa fa-check"></i>
                   <span className="homeVisionSpan">Commitment to Excellence</span>
                   <p>

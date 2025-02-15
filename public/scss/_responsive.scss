@@ -911,6 +911,9 @@
 
 /* small mobile :320px. */
 @media (max-width: 767px) {
+    .home-vission-ul{
+        width: 100% !important;
+    }
     .about-area{
         padding-bottom: 0;
         padding-top: 60px;
