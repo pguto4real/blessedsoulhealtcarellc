@@ -149,7 +149,15 @@ const HomeTwoAbout = () => {
                     understanding, we strive to create an atmosphere that
                     promotes fulfillment, independence, and continuous growth.
                   </p>
-                  <p></p>
+                  <p>
+                    More than just a place to reside, our community is a
+                    vibrant, supportive, and enriching home where lifelong
+                    friendships are formed, memories are cherished, and every
+                    individual feels valued and respected. Through innovative
+                    care practices, enriching social experiences, and a strong
+                    sense of community, we aim to empower our residents to live
+                    each day with purpose and joy.
+                  </p>
                   <p></p>
                   <br />
                 </div>
