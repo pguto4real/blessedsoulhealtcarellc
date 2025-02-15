@@ -52,26 +52,44 @@ const HomeTwoAbout = () => {
                     <li>
                       <i className="fa fa-check"></i>
                       <span>INTEGRITY</span>
+                      <p>
+                        Honesty, transparency, and ethical responsibility define
+                        our approach to care. We hold ourselves to the highest
+                        standards of professionalism, ensuring that every
+                        decision and action is guided by what is best for our
+                        residents and their families.
+                      </p>
                     </li>
                     <li>
                       <i className="fa fa-check"></i>
                       <span>RESPECT</span>
+                      <p>
+                        We honor the dignity, individuality, and personal
+                        choices of each resident. By fostering a culture of
+                        respect and inclusivity, we create a welcoming
+                        environment where everyone feels heard, valued, and
+                        empowered.
+                      </p>
                     </li>
                     <li>
                       <i className="fa fa-check"></i>
                       <span>EXCELLENCE</span>
+                      <p></p>
                     </li>
                     <li>
                       <i className="fa fa-check"></i>
                       <span>COMMUNITY</span>
+                      <p></p>
                     </li>
                     <li>
                       <i className="fa fa-check"></i>
                       <span>INNOVATION</span>
+                      <p></p>
                     </li>
                     <li>
                       <i className="fa fa-check"></i>
                       <span>FAMILY-CENTERED CARE</span>
+                      <p></p>
                     </li>
                   </ul>
                 </div>
