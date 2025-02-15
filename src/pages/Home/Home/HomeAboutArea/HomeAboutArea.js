@@ -20,11 +20,14 @@ const HomeAboutArea = () => {
             </div>
           </div>
           <div
-            className="col-xl-6 col-lg-7 "
-            // style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
+            className="col-xl-6 col-lg-7"
+            style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
           >
             <div className="about-right-side pt-10 mb-30">
-              <div className="about-title mb-20">
+              <div
+                className="about-title mb-20"
+                style={{ textAlign: "center" }}
+              >
                 <h5>About Us</h5>
               </div>
               <div className="about-text1 mb-30">
@@ -57,6 +60,11 @@ const HomeAboutArea = () => {
                   of warmth, kindness, and inclusivity, we ensure that every
                   resident experiences a life filled with comfort,
                   companionship, and contentment.
+                </p>
+                <p>
+                  At the heart of our mission is the unwavering belief that
+                  everyone deserves to age with grace, surrounded by a
+                  supportive community that cherishes and uplifts them.
                 </p>
               </div>
               {/* <div className="our-destination">
