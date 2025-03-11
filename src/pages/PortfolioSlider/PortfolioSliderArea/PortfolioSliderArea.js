@@ -42,7 +42,7 @@ const PortfolioSliderArea = () => {
                 <div className="row">
                     <Slider className='postbox__gallery mb-35' {...settings}>
 
-                        <img src="img/portfolio/lg-1.jpg" alt="portfolio image" />
+                        <img src="img/portfolio/port1.jpg" alt="portfolio image" />
                         <img src="img/portfolio/lg-2.jpg" alt="portfolio image" />
                         <img src="img/portfolio/lg-3.jpg" alt="portfolio image" />
                         <img src="img/portfolio/lg-4.jpg" alt="portfolio image" />
