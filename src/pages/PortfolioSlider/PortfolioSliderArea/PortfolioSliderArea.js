@@ -21,8 +21,6 @@ const PortfolioSliderArea = () => {
 
             <section className="portfolio-area pt-120 pb-90">
                 <div className="container">
-                <div className="row"></div>
-                <div className="row">
                     <Slider className='postbox__gallery mb-35' {...settings}>
 
                         <img src="img/portfolio/lg-1.jpg" alt="portfolio image" />
@@ -31,7 +29,6 @@ const PortfolioSliderArea = () => {
                         <img src="img/portfolio/lg-4.jpg" alt="portfolio image" />
 
                     </Slider>
-                    </div>
                 </div>
             </section>
 

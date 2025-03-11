@@ -17,16 +17,16 @@ import PortfolioSliderArea from '../../PortfolioSlider/PortfolioSliderArea/Portf
 const Home = () => {
     return (
         <>
-            <HomeHeader/>
+            {/* <HomeHeader/>
             <HomeHeroSection/>
             <HomeAboutArea/>
-            <HomeTwoAbout/>
-            <HomeVision/>
+            <HomeTwoAbout/> */}
+            {/* <HomeVision/> */}
             {/* <HomeTwoMissionArea/> */}
             
-            <HomeServices/>
+            {/* <HomeServices/> */}
             {/* <HomeFact/> */}
-            <HomeCta/>
+            {/* <HomeCta/> */}
             <HomeOurTeam/>
             <PortfolioSliderArea/>
             {/* <HomePricing/> */}
