@@ -20,7 +20,7 @@ const PortfolioSliderArea = () => {
     return (
         <>
 
-            <section className="portfolio-area pt-120 pb-90">
+            <section className="portfolio-area pt-120 pb-120">
                 <div className="container">
               <div className="row">
                                 <div className="col-xl-6 col-lg-7 col-md-10">
