@@ -12,6 +12,7 @@ import HomeServices from './HomeServices/HomeServices';
 import HomeTwoAbout from '../../HomeTwo/HomeTwoAbout/HomeTwoAbout';
 import HomeTwoMissionArea from '../../HomeTwo/HomeTwoMissionArea/HomeTwoMissionArea';
 import HomeVision from './HomeAboutArea/HomeVision';
+import PortfolioSliderArea from '../../PortfolioSlider/PortfolioSliderArea/PortfolioSliderArea';
 
 const Home = () => {
     return (
@@ -27,6 +28,7 @@ const Home = () => {
             {/* <HomeFact/> */}
             <HomeCta/>
             <HomeOurTeam/>
+            <PortfolioSliderArea/>
             {/* <HomePricing/> */}
             {/* <HomeBlogs/> */}
             <HomeFooter/>
